@@ -1,0 +1,1 @@
+console.log('project scripts loaded');

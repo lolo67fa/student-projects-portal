@@ -1,0 +1,13 @@
+body { font-family: Arial, sans-serif; direction: rtl; background:#f5f7fa; margin:0; color:#222; }
+.topbar{display:flex;justify-content:space-between;align-items:center;padding:12px 20px;background:#0077cc;color:#fff}
+.topbar .logo{font-weight:700}
+.topbar .nav a{color:#fff;margin-left:12px;text-decoration:none}
+.container{max-width:1000px;margin:30px auto;padding:20px;background:#fff;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.06)}
+.login-container{width:360px;margin:80px auto;padding:30px;background:#fff;border-radius:10px;box-shadow:0 6px 20px rgba(0,0,0,0.15);text-align:center}
+input[type=text],input[type=email],input[type=password],textarea,select{width:92%;padding:10px;margin:8px 0;border-radius:6px;border:1px solid #ddd}
+button,.btn{display:inline-block;background:#0077cc;color:#fff;padding:8px 14px;border-radius:6px;border:none;cursor:pointer;text-decoration:none}
+.table{width:100%;border-collapse:collapse;margin-top:10px}
+.table th,.table td{border:1px solid #eee;padding:10px;text-align:right}
+.error{background:#ffe6e6;color:#a00;padding:8px;margin:10px 0;border-radius:6px}
+.success{background:#e6ffea;color:#080;padding:8px;margin:10px 0;border-radius:6px}
+.comment{border:1px solid #f0f0f0;padding:10px;margin-bottom:10px;border-radius:6px}
