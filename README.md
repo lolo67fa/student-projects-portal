@@ -224,7 +224,7 @@ uploads/
 
 - GitHub: [@lolo67fa](https://github.com/lolo67fa)
 - LinkedIn: [ghala-a-670a62380](https://linkedin.com/in/ghala-a-670a62380)
-- Portfolio: [try.ka.nz/ai/ghalaalshreef](https://try.ka.nz/ai/ghalaalshreef)
+
 
 ---
 
